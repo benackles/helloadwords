@@ -2,7 +2,7 @@
 A Simple Program for Learning Google AdWords.
 
 * Choose your own adventure by personalizing content
-* On site consulting with Chrome Extension to put into practice
+* On site consulting with Chrome Extension to put material into practice
 
 ### Table of Contents
 1. Introduction
