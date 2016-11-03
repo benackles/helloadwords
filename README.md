@@ -7,6 +7,10 @@ A Simple Program for Google AdWords.
 * On site consulting with Chrome Extension to put material into practice
     * Single site support
     * Multi site support
+    
+### Pricing Plans
+* $59 for Owners
+* $149 for Agencies
 
 # Table of Contents
 ## I. Introduction
