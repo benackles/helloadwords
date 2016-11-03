@@ -2,7 +2,7 @@
 A Simple Program for Google AdWords.
 
 * Material focused on paid search for local businesses
-* A living document to explore new features
+* Living documentation to explore new features
 * Choose your own adventure by personalizing content
 * On site consulting with Chrome Extension to put material into practice
     * Single site support
