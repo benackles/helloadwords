@@ -7,8 +7,8 @@ A Simple Program for Google AdWords.
 * On site consulting with Chrome Extension to put material into practice
     
 ### Pricing Plans
-* **Owner**:   $59 for Single Site Support
-* **Agency**:  $149 for Multi Site Support
+* **Owner**:   $59 for single site Support
+* **Agency**:  $149 for multi site Support
 
 # Table of Contents
 ## I. Introduction
