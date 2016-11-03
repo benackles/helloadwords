@@ -21,7 +21,7 @@ A Simple Program for Google AdWords.
 ## II. Getting Started
 ### Planning & Research
 ### Setup & Configuration
-### Writing Ad Copy
+### Writing Effective Ad Copy
 ### Ad Extensions
 ### Bid Adjustments
 ### Bidding Strategy
