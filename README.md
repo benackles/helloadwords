@@ -9,11 +9,11 @@ A Simple Program for Google AdWords.
 
 # Table of Contents
 ## I. Introduction
-* Anatomy of Search Results
-* Search vs Display
-* Google Search vs Search Partners
-* Direct Action vs Brand Awareness
-* Understanding Purchase Intent
+### Anatomy of Search Results
+### Search vs Display
+### Google Search vs Search Partners
+### Direct Action vs Brand Awareness
+### Understanding Purchase Intent
 
 ## II. Getting Started
 
