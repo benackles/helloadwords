@@ -9,8 +9,8 @@ A Simple Program for Google AdWords.
     * Multi site support
     
 ### Pricing Plans
-* Owner:   $59
-* Agency:  $149
+* **Owner**:   $59
+* **Agency**:  $149
 
 # Table of Contents
 ## I. Introduction
