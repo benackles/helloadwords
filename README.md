@@ -14,7 +14,7 @@ A Simple Program for Google AdWords.
 ### Search vs Display Network
 ### Google Search vs Search Partners
 ### Direct Action vs Brand Awareness
-### Deep Understanding of Purchase Intent
+### What is Purchase Intent?
 
 ## II. Getting Started
 
