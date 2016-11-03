@@ -10,10 +10,10 @@ A Simple Program for Learning Google AdWords.
 3. Account Management
 4. Advanced Features
 
-## Introduction
+## 1. Introduction
 
-## Getting Started
+## 2. Getting Started
 
-## Account Management
+## 3. Account Management
 
-## Advanced Features
+## 4. Advanced Features
