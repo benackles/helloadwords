@@ -10,7 +10,7 @@ A Simple Program for Google AdWords.
 # Table of Contents
 ## I. Introduction
 ### Anatomy of Search Results
-### Search vs Display
+### Search vs Display Network
 ### Google Search vs Search Partners
 ### Direct Action vs Brand Awareness
 ### Understanding Purchase Intent
