@@ -19,6 +19,12 @@ A Simple Program for Google AdWords.
 ### What is Purchase Intent?
 
 ## II. Getting Started
+### Planning & Research
+### Setup & Configuration
+### Writing Ad Copy
+### Ad Extensions
+### Bid Adjustments
+### Bidding Strategy
 
 ## III. Account Management
 
