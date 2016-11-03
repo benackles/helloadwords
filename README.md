@@ -1,5 +1,5 @@
 # Hello AdWords
-A Simple Program for Learning Google AdWords.
+A Simple Program for Google AdWords.
 
 * Choose your own adventure by personalizing content
 * On site consulting with Chrome Extension to put material into practice
