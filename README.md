@@ -7,10 +7,10 @@ A Simple Program for Google AdWords.
     * Multi site support
 
 # Table of Contents
-## 1. Introduction
+## I. Introduction
 
-## 2. Getting Started
+## II. Getting Started
 
-## 3. Account Management
+## III. Account Management
 
-## 4. Advanced Features
+## IV. Advanced Features
