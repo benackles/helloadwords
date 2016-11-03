@@ -16,4 +16,4 @@ A Simple Program for Learning Google AdWords.
 
 ## Account Management
 
-## Advanced Feature
+## Advanced Features
