@@ -6,3 +6,7 @@ A Simple Program for Learning Google AdWords.
 2. Getting Started
 3. Account Management
 4. Advanced Features
+
+## Interactive Course
+* Choose your own adventure by personalizing content
+* On site consulting with Chrome Extension
