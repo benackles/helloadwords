@@ -6,7 +6,7 @@ A Simple Program for Google AdWords.
 * Choose your own adventure by personalizing content
 * On site consulting with Chrome Extension to put material into practice
     
-### Pricing Plans
+### Packages
 * **Single Site**:   $59 per year
 * **Multi Site**:  $149 per year
 
