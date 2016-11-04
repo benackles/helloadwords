@@ -14,7 +14,13 @@ A Simple Program for Google AdWords.
 ## I. Introduction
 ### Anatomy of Search Results
 * Paid Search
+    * Expanded Text Ads
+    * Call-Only Ads
+    * Product Listing Ads
 * Organic Search
+    * Snippets
+    * Knowledge Panel
+    * Local
 
 ### Search vs Display Network
 ### How Paid Search Works
