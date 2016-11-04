@@ -21,10 +21,6 @@ A Simple Program for Google AdWords.
 ## II. Getting Started
 ### Planning & Research
 ### Setup & Configuration
-### Writing Effective Ad Copy
-### Ad Extensions
-### Bid Adjustments
-### Bidding Strategy
 ### Account Structure
 1. Account
 2. Campaigns
@@ -32,6 +28,15 @@ A Simple Program for Google AdWords.
 4. Ads
 5. Keywords
 6. Ad Extensions
+### Ad Extensions
+### Bid Adjustments
+* Locations
+* Ad Schedule
+* Devices
+### Bidding Strategy
+### Writing Effective Ad Copy
+### Ad Formats
+### Keyword Match Types
 
 ## III. Account Management
 ### Home
