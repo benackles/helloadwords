@@ -50,6 +50,11 @@ A Simple Program for Google AdWords.
 ### Writing Effective Ad Copy
 ### Ad Formats
 ### Keyword Match Types
+* Broad Match
+* Broad Match Modifier
+* Phrase Match
+* Exact Match
+* Negative Match
 
 ## III. Campaign Management
 ### Home
