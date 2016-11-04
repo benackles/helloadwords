@@ -26,7 +26,10 @@ A Simple Program for Google AdWords.
 ### Bid Adjustments
 ### Bidding Strategy
 ### Account Structure
-* 
+1. Account
+2. Campaigns
+3. Ad Groups
+4. Ads & Keywords
 
 ## III. Account Management
 ### Home
