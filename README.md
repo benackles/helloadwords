@@ -17,6 +17,7 @@ A Simple Program for Google AdWords.
     * Expanded Text Ads
     * Call-Only Ads
     * Product Listing Ads
+    
 * Organic Search
     * Snippets
     * Knowledge Panel
@@ -112,7 +113,6 @@ A Simple Program for Google AdWords.
 ### Google My Business
 ### Google Analytics
 ### Google Search Console
-### Google Tag Manager
 ### Google Merchant Center
 ----------------
 ### CallRail
