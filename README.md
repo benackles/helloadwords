@@ -29,7 +29,9 @@ A Simple Program for Google AdWords.
 1. Account
 2. Campaigns
 3. Ad Groups
-4. Ads & Keywords
+4. Ads
+5. Keywords
+6. Ad Extensions
 
 ## III. Account Management
 ### Home
