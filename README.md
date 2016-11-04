@@ -15,6 +15,7 @@ A Simple Program for Google AdWords.
 ### Anatomy of Search Results
 * Paid Search
 * Organic Search
+
 ### Search vs Display Network
 ### How Paid Search Works
 ### Google Search vs Search Partners
