@@ -44,7 +44,7 @@ A Simple Program for Google AdWords.
 ### Ad Formats
 ### Keyword Match Types
 
-## III. Account Management
+## III. Campaign Management
 ### Home
 
 ### Campaigns
@@ -80,6 +80,7 @@ A Simple Program for Google AdWords.
 ### Google Keyword Planner
 ### Ad Preview & Diagnosis
 ### Google AdWords Editor
+### Google AdWords Manager Accounts
 
 ## V. Advanced Features
 ### Drafts
