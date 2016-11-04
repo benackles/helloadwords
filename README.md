@@ -12,6 +12,7 @@ A Simple Program for Google AdWords.
 
 # Table of Contents
 ## I. Introduction
+### How Google Search Works
 ### Anatomy of Search Results
 * Paid Search
     * Expanded Text Ads
