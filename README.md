@@ -46,15 +46,15 @@ A Simple Program for Google AdWords.
 * Ad Schedule
 * Devices
 
-### Bidding Strategy
-### Writing Effective Ad Copy
+### Bidding Strategies
 ### Ad Formats
-### Keyword Match Types
+### Writing Effective Ad Copy
+### Keyword Matching Options
 * Broad Match
 * Broad Match Modifier
 * Phrase Match
 * Exact Match
-* Negative Keywords
+* Negative Match
 
 ### Metrics
 * Performance
