@@ -111,6 +111,7 @@ A Simple Program for Google AdWords.
 
 ## VI. Integrations
 ### Google My Business
+----------------
 ### Google Analytics
 ### Google Search Console
 ### Google Merchant Center
