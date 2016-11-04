@@ -12,7 +12,7 @@ A Simple Program for Google AdWords.
 
 # Table of Contents
 ## I. Introduction
-### Deconstruct Search Results
+### Google Search Results
 * Paid Search
     * Expanded Text Ads
     * Call-Only Ads
