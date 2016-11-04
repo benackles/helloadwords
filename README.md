@@ -97,7 +97,7 @@ A Simple Program for Google AdWords.
 
 ### Labels
 
-### VI. Integrations
+## VI. Integrations
 ### Google My Business
 ### Google Analytics
 ### Google Search Console
