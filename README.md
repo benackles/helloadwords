@@ -28,11 +28,13 @@ A Simple Program for Google AdWords.
 4. Ads
 5. Keywords
 6. Ad Extensions
+
 ### Ad Extensions
 ### Bid Adjustments
 * Locations
 * Ad Schedule
 * Devices
+
 ### Bidding Strategy
 ### Writing Effective Ad Copy
 ### Ad Formats
