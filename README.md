@@ -28,4 +28,14 @@ A Simple Program for Google AdWords.
 
 ## III. Account Management
 
+## IV. Tools & Resources
+### Google Keyword Planner
+### Ad Preview & Diagnosis
+### Google My Business
+### Google Analytics
+### Google Search Console
+### Google Tag Manager
+### Google Merchant Center
+### CallRail
+
 ## IV. Advanced Features
