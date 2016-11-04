@@ -31,6 +31,7 @@ A Simple Program for Google AdWords.
 ## IV. Tools & Resources
 ### Google Keyword Planner
 ### Ad Preview & Diagnosis
+### Google AdWords Editor
 ----------------
 ### Google My Business
 ### Google Analytics
