@@ -72,18 +72,10 @@ A Simple Program for Google AdWords.
 
 ### Notifications
 
-## IV. Tools & Resources
+## IV. AdWords Tools
 ### Google Keyword Planner
 ### Ad Preview & Diagnosis
 ### Google AdWords Editor
-----------------
-### Google My Business
-### Google Analytics
-### Google Search Console
-### Google Tag Manager
-### Google Merchant Center
-----------------
-### CallRail
 
 ## V. Advanced Features
 ### Drafts
@@ -104,3 +96,12 @@ A Simple Program for Google AdWords.
 * Bulk uploads
 
 ### Labels
+
+### VI. Integrations
+### Google My Business
+### Google Analytics
+### Google Search Console
+### Google Tag Manager
+### Google Merchant Center
+----------------
+### CallRail
