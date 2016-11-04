@@ -24,7 +24,7 @@ A Simple Program for Google AdWords.
     * Local
 
 ### Search vs Display Network
-### How Google Search Works
+### How Google Paid Search Works
 ### Google Search vs Search Partners
 ### Direct Action vs Brand Awareness
 ### What is Purchase Intent?
