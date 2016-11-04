@@ -12,7 +12,6 @@ A Simple Program for Google AdWords.
 
 # Table of Contents
 ## I. Introduction
-### How Google Search Works
 ### Anatomy of Search Results
 * Paid Search
     * Expanded Text Ads
@@ -25,7 +24,7 @@ A Simple Program for Google AdWords.
     * Local
 
 ### Search vs Display Network
-### How Paid Search Works
+### How Google Search Works
 ### Google Search vs Search Partners
 ### Direct Action vs Brand Awareness
 ### What is Purchase Intent?
