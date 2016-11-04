@@ -65,9 +65,11 @@ A Simple Program for Google AdWords.
 * Business data
 * Campaign negative keywords
 * URL options
+
 ### Bulk Operations
 * Automated rules
 * Scripts
 * Bulk edits
 * Bulk uploads
+
 ### Labels
