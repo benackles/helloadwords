@@ -13,7 +13,10 @@ A Simple Program for Google AdWords.
 # Table of Contents
 ## I. Introduction
 ### Anatomy of Search Results
+* Paid Search
+* Organic Search
 ### Search vs Display Network
+### How Paid Search Works
 ### Google Search vs Search Partners
 ### Direct Action vs Brand Awareness
 ### What is Purchase Intent?
